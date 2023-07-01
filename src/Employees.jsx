@@ -100,7 +100,7 @@ const Employees = () => {
       }
     ]
   );
-debugger;
+
   /**
    * Helper function to handle team selection
    */
